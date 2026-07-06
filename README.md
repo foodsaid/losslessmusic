@@ -18,7 +18,7 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account 
 
 ### [SpotiFLAC Next](https://github.com/spotbye/SpotiFLAC-Next)
 
-Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Apple Music — no account required.
+Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music & Deezer — no account required.
 
 ### [SpotubeDL.com](https://spotubedl.com)
 
@@ -115,5 +115,3 @@ The software is provided "as is", without warranty of any kind. The author assum
 > [!TIP]
 >
 > **Star Us**, You will receive all release notifications from GitHub without any delay ~
-
-[![RepoStars](https://repostars.dev/api/embed?repo=afkarxyz%2FSpotiFLAC&theme=forest)](https://repostars.dev/?repos=afkarxyz%2FSpotiFLAC&theme=forest)
