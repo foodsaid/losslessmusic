@@ -5,6 +5,9 @@
 
   <h1>SpotiFLAC</h1>
   <p>
+    Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required.
+  </p>
+  <p>
     <a href="https://github.com/spotbye/SpotiFLAC/stargazers"><img
         src="https://img.shields.io/github/stars/spotbye/SpotiFLAC?color=ffcb47&labelColor=black&logo=github&label=Stars" /></a><a
       href="https://github.com/spotbye/SpotiFLAC/releases"><img
@@ -29,8 +32,6 @@
         width="49%" /></a>
   </p>
 </div>
-
-Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 
 ### [Download](https://github.com/spotbye/SpotiFLAC/releases/latest)
 
